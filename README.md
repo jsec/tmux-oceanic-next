@@ -6,7 +6,7 @@ Currently this is only tested on systems with 24-bit color support. Making the t
 
 ## Screenshot
 
-![tmux_oceanic_next](https://github.com/jsec/tmux-oceanic-next/raw/master/screenshots/oceanic_tmux.png)
+![tmux_oceanic_next](https://github.com/jsec/tmux-oceanic-next/raw/master/screenshots/oceanic-tmux.png)
 
 ## Installation
 
